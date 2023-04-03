@@ -1,7 +1,6 @@
 
-Тестовое задание "Начисление бонусов за покупку".  
-Решение выложено на github по ссылке:
-https://github.com/alexregnif/test_spx  
+"Начисление бонусов за покупку".  
+
 Так же проект можно собрать при помощи Maven из консоли, последовательно используя команды (в корне проекта) для ОС Windows:  
 mvn compile  
 mvn exec:java -Dexec.mainClass="ru.toropin.spx.BonusLoyaltySystemApp"  
